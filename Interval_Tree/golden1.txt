@@ -1,0 +1,1701 @@
+A
+O
+A
+O
+O
+r103 violate
+r400
+r446
+A
+r139
+A
+O
+S
+S
+r439
+S
+S
+A
+O
+r81 violate
+r135 violate
+A
+A
+O
+A
+r440
+O
+O
+r25
+r57 violate
+r64
+r72 violate
+r189
+r205
+r235 violate
+r389 violate
+r432
+r461
+r509
+r511
+O
+r5 violate
+r6
+r9
+r55
+r57
+r73
+r102
+r222
+r252
+r266
+r281
+r292
+r301 violate
+r325
+r358 violate
+r373
+r406
+r409
+r432
+r456
+r467 violate
+r469
+r500
+r511 violate
+A
+r62
+S
+O
+r7
+r40
+r57
+r105 violate
+r108 violate
+r129
+r149
+r164 violate
+r192
+r203 violate
+r229 violate
+r278
+r286
+r325
+r358
+r406
+r492
+r497 violate
+r500 violate
+r502
+r520
+S
+r333
+S
+r154
+O
+A
+S
+r57
+O
+r103
+r400
+r406 violate
+r421 violate
+r432 violate
+r511 violate
+A
+O
+r406 violate
+O
+r25
+r27
+r64
+r205 violate
+r419
+r432
+r509
+r511
+S
+r257
+A
+r188
+O
+r81
+r135
+r139
+r244
+r300 violate
+r427 violate
+O
+r103 violate
+r351 violate
+r400 violate
+r446 violate
+O
+r135 violate
+r221 violate
+A
+r406
+O
+A
+O
+r6
+r9
+r11
+r55
+r57
+r64
+r102
+r110 violate
+r116
+r172
+r183
+r222
+r266
+r292
+r298 violate
+r303 violate
+r332
+r347 violate
+r401
+r432
+r456
+r457
+r469
+r472 violate
+r500
+r518
+r520
+r538
+S
+r377
+A
+A
+O
+r81
+r135 violate
+r136 violate
+r139 violate
+r252 violate
+O
+A
+A
+A
+r262
+O
+O
+r266
+r332
+r538 violate
+r543 violate
+O
+r129 violate
+r203 violate
+S
+r129
+A
+r485
+O
+r6 violate
+r9
+r11 violate
+r55
+r57
+r64
+r70 violate
+r94 violate
+r102
+r110 violate
+r129
+r145 violate
+r160 violate
+r183
+r199
+r222
+r229
+r252 violate
+r266
+r270 violate
+r281
+r292
+r301
+r303
+r325
+r332
+r343 violate
+r347
+r358 violate
+r366
+r373
+r401
+r406
+r409
+r432
+r433 violate
+r456
+r457
+r459
+r469 violate
+r472
+r492
+r496
+r497 violate
+r498
+r518
+r520
+r538
+r543
+r544
+A
+O
+r135
+r139
+r195 violate
+r358
+r492
+S
+r447
+A
+r210
+A
+A
+r224
+S
+A
+r380
+O
+A
+A
+O
+r135
+r146 violate
+r164 violate
+r205
+r252
+r338 violate
+O
+r6 violate
+r17 violate
+r135
+r136
+r139 violate
+r252 violate
+r558
+A
+r526
+O
+r135 violate
+S
+O
+r6
+r9
+r22 violate
+r30
+r55 violate
+r57
+r79
+r102 violate
+r103
+r141
+r146 violate
+r164
+r205 violate
+r208 violate
+r221
+r222
+r252
+r255 violate
+r266
+r281
+r290
+r292
+r323
+r325
+r358
+r399 violate
+r406
+r432
+r466
+r469 violate
+r511
+r538
+r544
+O
+O
+A
+r516
+O
+r81 violate
+r135
+r139
+r164
+r195 violate
+r244 violate
+r299 violate
+r358 violate
+r453 violate
+r545 violate
+A
+r435
+S
+r163
+A
+S
+S
+r418
+O
+r64
+r389 violate
+O
+A
+A
+A
+r335
+A
+r40
+S
+r146
+A
+A
+r312
+O
+r103
+r205 violate
+r400
+r406
+r421
+r432
+r440 violate
+r511 violate
+S
+r589
+O
+r135
+r139 violate
+r228 violate
+r244 violate
+A
+A
+O
+r266
+r373
+r456
+r492
+r520 violate
+r543
+S
+r347
+A
+r198
+S
+O
+S
+S
+S
+O
+r11 violate
+r43
+r55
+r57
+r64
+r102
+r266
+r292 violate
+r298
+r330
+r346 violate
+r388 violate
+r469
+r511 violate
+r543
+r544
+r568
+r572
+S
+S
+S
+O
+r146 violate
+r205
+O
+r57 violate
+r281
+r406
+S
+r239
+S
+r541
+S
+r591
+A
+r475
+A
+r513
+S
+O
+r79
+r222
+r266
+r358
+r406
+A
+r116
+O
+S
+O
+r25 violate
+r509 violate
+O
+O
+O
+r6 violate
+r135
+r136
+r139 violate
+r205
+r221
+r252 violate
+r326 violate
+r612
+S
+r265
+A
+S
+O
+r20
+r30 violate
+r103
+r143
+r399
+r400
+r406 violate
+r446 violate
+r511 violate
+r562 violate
+A
+r87
+S
+r230
+A
+A
+O
+r129
+r229
+r266
+r358
+r373 violate
+r492 violate
+r638 violate
+A
+O
+S
+O
+r146
+r252 violate
+r358 violate
+r400 violate
+r611 violate
+O
+r635
+A
+O
+r20
+r51
+r105 violate
+r124
+r128
+r129
+r135
+r139 violate
+r149
+r163
+r203
+r229 violate
+r278
+r291 violate
+r342 violate
+r358
+r395 violate
+r404
+r406
+r492
+r502
+r520
+r545
+r546 violate
+r600 violate
+r607
+r613
+r623 violate
+r624
+r627
+r635
+A
+r393
+A
+r337
+S
+r129
+S
+r225
+S
+S
+A
+r476
+O
+A
+r97
+O
+r425
+r445
+r456 violate
+r543
+r623
+A
+r649
+S
+S
+O
+r17 violate
+r135
+r164
+r338 violate
+r371 violate
+r611 violate
+r613 violate
+r646
+A
+r150
+S
+O
+A
+r440
+A
+A
+S
+r477
+A
+r101
+A
+r230
+A
+r361
+S
+r506
+S
+A
+r324
+O
+r57 violate
+r135
+r164
+r358
+r635 violate
+r679
+S
+r405
+O
+r651 violate
+A
+r446
+A
+S
+r445
+S
+r601
+S
+A
+r598
+O
+r62
+r103 violate
+r143 violate
+r153 violate
+r399 violate
+r400 violate
+r446
+r494 violate
+O
+S
+O
+r51 violate
+r135
+r164 violate
+r358
+r545
+r555 violate
+r590 violate
+r613
+r679 violate
+r682
+r683
+S
+r368
+O
+r46 violate
+r57
+r103
+r135
+r146
+r154
+r163 violate
+r164 violate
+r234
+r281
+r290 violate
+r292 violate
+r338
+r341
+r358
+r399 violate
+r400
+r406 violate
+r411
+r486 violate
+r511
+r593 violate
+r611
+r635
+r657 violate
+r694
+A
+A
+O
+S
+r334
+A
+O
+A
+S
+S
+r373
+O
+r52
+r57
+r60
+r129 violate
+r135
+r145
+r163
+r164
+r188 violate
+r203
+r236
+r292
+r338
+r339
+r342
+r358
+r371
+r404
+r406
+r457 violate
+r520
+r593
+r600 violate
+r605 violate
+r607 violate
+r611
+r613 violate
+r635
+r646
+r679
+r684 violate
+r694
+A
+r464
+S
+r96
+A
+S
+S
+S
+O
+S
+r542
+A
+r599
+A
+r158
+S
+r642
+S
+r694
+A
+r229
+A
+r694
+A
+r600
+O
+r129
+r149 violate
+r456
+r495 violate
+r623 violate
+r638 violate
+A
+S
+r466
+O
+r635
+A
+r715
+A
+r308
+A
+A
+r191
+S
+r211
+O
+r40
+r52 violate
+r57
+r60
+r105
+r128
+r129
+r135
+r145
+r163
+r164
+r203
+r225
+r229
+r281
+r286 violate
+r290
+r292
+r342
+r358
+r404
+r406
+r466
+r480
+r520
+r530 violate
+r545
+r568 violate
+r590
+r593
+r602
+r605 violate
+r611
+r625
+r635
+r646 violate
+r671 violate
+r679
+r694
+r698
+O
+r97 violate
+r260 violate
+A
+A
+r565
+S
+r540
+O
+r51
+r101 violate
+r149
+r358
+r395
+r545 violate
+r627
+r679 violate
+r683 violate
+S
+r543
+A
+r463
+O
+r6
+r16 violate
+r135
+r136
+r164
+r195 violate
+r358 violate
+r611
+r613
+r675 violate
+r682
+r683 violate
+r694
+r697
+S
+A
+A
+r196
+A
+r306
+O
+O
+A
+r170
+S
+r170
+S
+S
+O
+r616 violate
+r682
+r694
+S
+A
+A
+A
+r419
+S
+A
+A
+r276
+A
+S
+r119
+A
+r388
+O
+S
+r679
+A
+r612
+A
+r728
+O
+r281
+r292
+r457
+r520
+r568
+r602
+r635
+r671
+r694
+r698
+S
+r52
+A
+O
+r103 violate
+r399 violate
+r400 violate
+r682 violate
+r694 violate
+A
+r668
+S
+r195
+S
+O
+O
+r51 violate
+r358
+r545
+r607 violate
+r627 violate
+r635 violate
+r679
+r694 violate
+r762
+S
+S
+A
+r746
+S
+r704
+A
+O
+r1 violate
+r399 violate
+r682
+r683 violate
+r694 violate
+S
+r285
+O
+r128 violate
+r129 violate
+r163 violate
+r203 violate
+r358
+r520 violate
+r545
+r600 violate
+r607
+r613
+r635
+r679
+r682 violate
+r694 violate
+r762
+O
+r682
+r694
+A
+r177
+A
+r646
+O
+r6
+r64 violate
+r102
+r222
+r281
+r292
+r568
+r635
+r694
+r698
+r761 violate
+r762
+r772
+A
+r130
+A
+r555
+S
+r154
+A
+r430
+A
+O
+S
+r585
+O
+O
+S
+O
+r545
+r762
+S
+r6
+O
+r702 violate
+O
+r40 violate
+r51 violate
+r128 violate
+r163
+r164
+r203 violate
+r286 violate
+r358
+r520 violate
+r545
+r590
+r600 violate
+r607
+r613 violate
+r625 violate
+r635
+r674
+r679
+r694
+r744
+r748
+r762
+S
+S
+r340
+A
+r290
+A
+O
+r64 violate
+r694
+r698
+S
+r189
+A
+A
+O
+r694 violate
+r762
+O
+r400 violate
+O
+r635 violate
+r698 violate
+r762
+O
+r6
+r17 violate
+r45 violate
+r136
+r146 violate
+r164 violate
+r473 violate
+r484 violate
+r611 violate
+r646
+r668
+r682
+r697 violate
+r735 violate
+r737 violate
+r762 violate
+r780
+r789
+r790
+O
+O
+r97 violate
+r239 violate
+r326
+r682 violate
+r697 violate
+r790 violate
+O
+r635
+r694
+r698 violate
+O
+r244 violate
+r628
+r796
+S
+A
+r771
+S
+A
+A
+r385
+S
+r484
+A
+r257
+S
+r70
+A
+r136
+O
+r102 violate
+r660
+S
+A
+r126
+O
+r97 violate
+r326 violate
+r796 violate
+r817 violate
+S
+r780
+S
+S
+O
+r64 violate
+O
+r694
+S
+S
+r708
+S
+r56
+S
+S
+S
+r148
+A
+r580
+O
+r698 violate
+O
+r64
+r102
+r222
+r281
+r358 violate
+r568
+r679
+r694
+r698
+r717 violate
+r761 violate
+r762
+r772
+r787
+A
+A
+r587
+A
+A
+r727
+O
+O
+r145 violate
+r222 violate
+r281
+r358
+r366
+r568
+r602
+r605
+r611 violate
+r671 violate
+r679
+r694
+r698
+r748
+r762
+r803 violate
+S
+A
+r819
+S
+O
+r17
+r52
+r60
+r163
+r164
+r188 violate
+r203
+r236
+r281
+r290
+r358
+r404
+r463 violate
+r466
+r568
+r600
+r602
+r605 violate
+r607
+r611
+r613 violate
+r646
+r668 violate
+r679
+r684 violate
+r694
+r698
+r733
+r748
+r751 violate
+r760 violate
+r762
+r803 violate
+r811
+r820
+r827
+r842
+r843
+A
+r260
+A
+S
+r585
+S
+A
+S
+A
+S
+A
+r466
+A
+r176
+O
+S
+r271
+S
+S
+r692
+A
+r424
+O
+O
+r694 violate
+r762
+O
+r7
+r40
+r124 violate
+r149
+r164
+r203
+r278
+r286
+r358
+r520
+r545
+r590
+r627
+r679
+r694
+r698 violate
+r748
+r760
+r762
+r786
+r842
+S
+r607
+O
+r400 violate
+O
+r149
+r358
+r545
+r627
+r679
+r762 violate
+r842
+O
+r358 violate
+r613
+r682
+r694 violate
+r737 violate
+r762
+r790
+r842
+A
+O
+S
+r445
+S
+r672
+S
+r16
+S
+r771
+O
+r260 violate
+r852 violate
+S
+r599
+S
+A
+S
+O
+S
+A
+r164
+S
+r495
+S
+r358
+A
+r694
+S
+S
+r182
+S
+r823
+S
+r737
+S
+r750
+O
+O
+r400 violate
+r682 violate
+r897 violate
+S
+S
+r501
+O
+A
+r732
+S
+r780
+S
+r566
+A
+S
+r719
+A
+r305
+O
+S
+r719
+O
+r753
+r849
+r874 violate
+A
+r17
+O
+r149
+r244
+r308
+r545 violate
+r627
+r682
+r701
+r758 violate
+r762
+r774
+r796 violate
+r842
+r854 violate
+S
+S
+r907
+S
+r237
+S
+S
+r824
+A
+S
+A
+S
+O
+r203 violate
+r842 violate
+r892
+r931
+O
+r183
+r928
+O
+A
+r411
+O
+r103 violate
+r281 violate
+r694
+r698
+r762 violate
+r792 violate
+r831
+r897
+r928
+A
+r842
+S
+r761
+A
+r40
+A
+r798
+A
+A
+O
+r52
+r60
+r140 violate
+r145
+r163
+r164
+r203
+r268 violate
+r281
+r290
+r358
+r366 violate
+r399 violate
+r463 violate
+r466
+r520 violate
+r605
+r611
+r630 violate
+r646
+r668
+r679
+r698
+r748
+r751
+r760
+r761 violate
+r762
+r797
+r803
+r811
+r820
+r842
+r878 violate
+r880
+r892
+r896
+r897 violate
+r915
+r928
+r931
+r932
+S
+S
+r835
+S
+r856
+S
+r675
+A
+r193
+S
+A
+O
+r203 violate
+r358
+r679
+r698 violate
+r762
+r892
+r931 violate
+A
+O
+r6
+r17 violate
+r30
+r52
+r60
+r130 violate
+r140
+r164
+r203
+r257 violate
+r268 violate
+r281
+r290
+r358
+r366 violate
+r399
+r463 violate
+r466
+r583
+r605
+r611
+r630 violate
+r646
+r656
+r668
+r679
+r698
+r699
+r704
+r748
+r751
+r761
+r762
+r789 violate
+r792 violate
+r811
+r820
+r824
+r831
+r841
+r842
+r878 violate
+r880
+r885
+r891 violate
+r892
+r896
+r897
+r904 violate
+r915
+r928
+r931
+O
+r928
+S
+r656
+O
+A
+O
+r326 violate
+O
+r203
+r358
+r456
+r679
+r698
+r760 violate
+r762
+r842
+r864
+r873
+r892
+r896
+r928 violate
+r931
+A
+r413
+S
+r817
+O
+r425
+r519 violate
+r712
+r753
+r849
+r857
+r874
+r905 violate
+O
+r30 violate
+r143
+r146
+r234
+r281
+r323 violate
+r352
+r358
+r400
+r411 violate
+r466
+r587
+r589
+r611 violate
+r698
+r704 violate
+r762
+r792
+r831
+r892
+r897
+r903
+r928
+O
+r897 violate
+A
+r231
+O
+O
+r183 violate
+r687
+r772
+r773 violate
+r775
+r892 violate
+r896
+r928
+S
+S
+A
+r214
+O
+r203
+r842
+r892
+r931
+O
+r928
+S
+A
+A
+r715
+O
+r682 violate
+S
+A
+S
+r124
+A
+S
+r149
+S
+A
+S
+S
+r557
+O
+r892 violate
+A
+S
+r160
+A
+r455
+S
+r831
+A
+r173
+A
+r765
+O
+r64 violate
+S
+r463
+S
+r814
+S
+r875
+O
+r928 violate
+A
+r967
+A
+O
+r796 violate
+r956 violate
+S
+r52
+S
+O
+r928
+A
+O
+r146 violate
+r234 violate
+r281 violate
+r344
+r358 violate
+r399 violate
+r477 violate
+r555
+r592
+r616
+r682
+r683
+r715 violate
+r762
+r777
+r790
+r850 violate
+r893
+r897
+r903
+r928
+r949 violate
+r969
+r974
+r983 violate
+S
+r969
+S
+r952
+S
+r784
+S
+A
+r862
+A
+O
+r149
+r203
+r358
+r520 violate
+r545
+r627
+r679
+r698 violate
+r842
+r892
+r931 violate
+S
+r825
+O
+O
+A
+A
+S
+r155
+O
+r358
+r555 violate
+r682
+r683
+r790 violate
+r880 violate
+r928
+r988
+S
+r106
